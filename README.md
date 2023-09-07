@@ -42,7 +42,7 @@
 
 <h3 align="center">
  
- <a href="[https://www.linkedin.com/in/burakertan](https://www.linkedin.com/in/sefaba%C5%9Fbo%C4%9Fa/)">
+ <a href="https://www.linkedin.com/in/sefaba%C5%9Fbo%C4%9Fa/">
    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
  </a>
 
