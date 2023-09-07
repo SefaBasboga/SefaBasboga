@@ -1,16 +1,69 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header)
+ <h1 align="center">Hi There! I'm Sefa</h1>
 
-<!--
-**SefaBasboga/SefaBasboga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+<h3 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=Jr+.Net+Core+Developer+)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### 🪐 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧬  Hi, I am working on .Net Core web development. Technologies I use;
+
+    # Database Technologies       # Technologies and Application Frameworks        # Concepts and Patterns                  #Tools                               
+                                                                                       
+       -MSSQL                       - Asp.Net Mvc5                                   - Solid Principles                       - Visual Studio
+       -MongoDb                     - Asp.Net Core 3.1/5.0/6.0/7.0                   - Clean Code Arc                         - Visual Studio Code
+       -PostgreSQL                  - Windows Form App                               - Repository                             - Postman
+       -T-SQL                       - SignalR                                        - Design Pattern                         - Swagger
+       -Json                        - Web Api                                           - Unit of Work Design Pattern         - Dbeaver
+       -Redis                       - Docker                                            - Chain of Responsibility             - TFS
+       -NoSQL                       - Portainer                                         - CQRS                                
+       -SQLLite                     - Html                                              - Mediator                           
+       -Azure Devops                - Css                                               - Observer
+                                    - Bootstrap                                      - Onion Architecture
+                                    - Ajax                                           - Microservices
+                                                                                     - N Tier Architecture
+                                                                                     - Object Oriented Programming
+
+
+
+
+### The Languages, Frameworks & Tools I am proficient about
+
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?&theme=light&i=visualstudio,dotnet,cs,html,css,bootstrap,jquery,mysql,mongodb,postgres,postman,redis,sqlite,docker,azure,"/>
+    
+  </a>
+</p>
+ 
+### Contact & Social
+
+<h3 align="center">
+ 
+ <a href="[https://www.linkedin.com/in/burakertan](https://www.linkedin.com/in/sefaba%C5%9Fbo%C4%9Fa/)">
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+ </a>
+
+ </a>
+
+
+
+</h3>
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
